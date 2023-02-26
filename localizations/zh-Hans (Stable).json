@@ -29,7 +29,7 @@
   "A weighted sum will be used for interpolation. Requires two models; A and B. The result is calculated as A * (1 - M) + B * M" : "最终模型权重是前两个模型按比例相加的结果。需要 A、B 两个模型。计算公式为 A * (1 - M) + B * M",
   "Bake in VAE" : "嵌入 VAE 模型",
   "Batch" : "批量处理",
-  "Batch count" : "总批次数\n\n\n",
+  "Batch count" : "总批次数",
   "Batch from directory" : "批量处理文件夹",
   "Batch from Directory" : "批量处理文件夹",
   "Batch Process" : "批量处理",

@@ -177,7 +177,7 @@
   "Bake in VAE" : "嵌入 VAE 模型",
   "base_alpha" : "文本编码器比例",
   "Batch" : "批量处理",
-  "Batch count" : "总批次数\n\n\n",
+  "Batch count" : "总批次数",
   "Batch from directory" : "批量处理文件夹",
   "Batch from Directory" : "批量处理文件夹",
   "Batch img2img" : "批量图生图",
