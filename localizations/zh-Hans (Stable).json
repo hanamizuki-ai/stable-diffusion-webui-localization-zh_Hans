@@ -8,6 +8,7 @@
   "5️⃣" : "5️⃣",
   "A, B or C" : "A, B 或 C",
   "Action" : "操作",
+  "Action on existing caption" : "对已有标注的操作",
   "Actions" : "其他操作",
   "Add difference" : "差额叠加",
   "Add extended info (seed, prompt) to filename when saving grid" : "保存网格图时，将扩展信息（随机种子、提示词）添加到文件名",

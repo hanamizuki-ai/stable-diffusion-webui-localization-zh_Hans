@@ -33,7 +33,7 @@
   "Accent" : "Catppuccin 主题风格（按钮颜色，根据主题样式不同会发生变化，不一定完全与描述相同）",
   "Accumulation steps" : "累加步数",
   "Action" : "操作",
-  "Action on existing caption" : "对已有标题的操作",
+  "Action on existing caption" : "对已有标注的操作",
   "Action on exiting caption" : "对退出符的响应方式",
   "Actions" : "其他操作",
   "Activation keywords, comma-separated" : "该模型的触发词，逗号分隔",
