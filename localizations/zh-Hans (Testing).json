@@ -862,7 +862,7 @@
   "Image for img2img" : "图生图的图像",
   "Image for inpainting with mask" : "用于局部重绘并手动画蒙版的图像",
   "Image Parameters" : "图像参数",
-  "Image preview height" : "图像预览高度",
+  "Image preview height" : "预览图高度",
   "Images Browser" : "图库浏览器",
   "Images directory" : "图像目录",
   "Images filename pattern" : "文件名格式",
