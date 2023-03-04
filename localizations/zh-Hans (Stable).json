@@ -17,7 +17,6 @@
   "Add difference" : "差额叠加",
   "Add difference:A+(B-C)*alpha" : "差额叠加: A+(B-C)*α",
   "Add extended info (seed, prompt) to filename when saving grid" : "保存网格图时，将扩展信息（随机种子、提示词）添加到文件名",
-  "Additional Networks" : "附加模型",
   "Additional tags (split by comma)" : "附加提示词 (逗号分隔)",
   "Add layer normalization" : "启用网络层标准化处理",
   "Add model hash to generation information" : "将模型哈希值添加到生成信息",
