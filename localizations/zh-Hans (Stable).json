@@ -276,7 +276,7 @@
   "IN_B_09" : "模型 B 输入层 09",
   "IN_B_11" : "模型 B 输入层 11",
   "Include confident of tags matches in results" : "在结果中包含提示词的匹配置信度",
-  "Initialization text" : "初始文字向量",
+  "Initialization text" : "初始化文本",
   "inpaint" : "局部重绘",
   "Inpaint" : "局部重绘",
   "inpaint sketch" : "涂鸦重绘",
