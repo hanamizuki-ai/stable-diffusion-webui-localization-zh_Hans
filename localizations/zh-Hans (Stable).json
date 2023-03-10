@@ -620,7 +620,7 @@
   "Reuse seed from last generation, mostly useful if it was randomed" : "使用上一次生成的随机数种子，用于重现结果",
   "RGB to BGR" : "RGB 转 BGR",
   "Roll Channels" : "色彩通道轮替",
-  "Run" : "运行",
+  "Run" : "运行参数",
   "Run Merge" : "开始合并",
   "safetensors" : "safetensors",
   "same to Strength" : "与强度相同",
