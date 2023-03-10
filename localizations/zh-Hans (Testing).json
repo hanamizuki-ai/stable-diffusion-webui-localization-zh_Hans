@@ -4,7 +4,7 @@
   "{{1-$$and$$__adjective__}}" : "{{1-3$$and$$__adjective__}}",
   "{1-3$$artist1|artist2|artist3}" : "{1-3$$艺术家1|艺术家2|艺术家3}",
   "180 Degree Rotation" : "180 度旋转",
-  "1st and last digit must be 0 and values should be between 0 and 1. ex:'0, 0.01, 0'" : "第一个和最后一个数字必须是0，其他值应该在 0 和 1 之间。如：’0, 0.01, 0’",
+  "1st and last digit must be 0 and values should be between 0 and 1. ex:'0, 0.01, 0'" : "第一个和最后一个数字必须是 0，其他值应介于 0 和 1 之间。如：’0, 0.01, 0’",
   "1st and last digit must be 1. ex:'1, 2, 1'" : "第一个和最后一个数字必须是 1。例：'1, 2, 1'",
   "1. The tags common to all displayed images are shown in comma separated style." : "1. 所有显示图像的共同tag要用逗号分隔的样式显示。\n\n ",
   "2️⃣" : "2️⃣",
