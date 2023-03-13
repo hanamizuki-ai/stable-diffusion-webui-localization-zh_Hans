@@ -503,6 +503,7 @@
   "Model path filter" : "按模型路径过滤",
   "models" : "模型相关",
   "Motion" : "运动参数",
+  "Move ControlNet images to CPU (if applicable)" : "将 ControlNet 图像移动到 CPU（如果适用）",
   "Move face restoration model from VRAM into RAM after processing" : "处理完成后，将面部修复模型从显存卸载到内存",
   "Move to favorites" : "　移动到收藏夹",
   "Move VAE to GPU" : "将 VAE 移动到 GPU",
