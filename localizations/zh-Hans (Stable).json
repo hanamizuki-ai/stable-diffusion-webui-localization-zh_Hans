@@ -1122,7 +1122,7 @@
   "Use init" : "使用初始化",
   "Use Lora in uc diffusion model" : "在反向扩散模型中使用 LoRA",
   "Use Lora in uc text model encoder" : "在反向文本编码器中使用 LoRA",
-  "Use lossless compression for webp images" : "对WebP图像使用无损压缩",
+  "Use lossless compression for webp images" : "对 WebP 图像使用无损压缩",
   "Use mask" : "使用蒙版",
   "Use mask video" : "使用视频蒙版",
   "use MBW" : "使用分块合并",
