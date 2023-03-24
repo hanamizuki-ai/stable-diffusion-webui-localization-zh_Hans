@@ -1656,7 +1656,7 @@
   "Mode to add the extra tags to the main tag list" : "选择将额外Tag添加到主要Tag列表的模式",
   "Mode to use for model list" : "模型列表模式",
   "Modules" : "模块",
-  "More info about Anti Burn" : "Anti Burn 的更多信息",
+  "More info about Anti Burn" : "关于 Anti Burn 的更多信息",
   "most_different" : "最大差异",
   "Most frequent tags in captions" : "训练用描述文本里tags的频率列表",
   "most_similar" : "最相似",
