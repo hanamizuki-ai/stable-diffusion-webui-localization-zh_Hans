@@ -1669,7 +1669,7 @@
   "Motion" : "运动参数",
   "Motion parameters:" : "运动参数：",
   "Move buttons copy instead of move" : "将图库浏览器内所有\"移动\"按钮改为\"复制\"按钮",
-  "Move completion popup together with text cursor" : "使弹出窗口跟随文本光标",
+  "Move completion popup together with text cursor" : "将弹出窗口与文本光标一起移动",
   "Move ControlNet images to CPU (if applicable)" : "将 ControlNet 图像移动到 CPU（如果适用）",
   "Move/Copy/Delete matching .txt files" : "将图片的移动、复制、删除操作应用到与之同名的 txt 文件",
   "Moved or deleted images will be unloaded." : "被移动或被删除的图片会被卸载。",
