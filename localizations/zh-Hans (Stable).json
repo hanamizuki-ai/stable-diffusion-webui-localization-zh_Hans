@@ -257,7 +257,7 @@
   "Decoder Tile Size" : "解码器区块大小",
   "Default Image CFG" : "默认图像引导系数 (CFG)",
   "default variables: in \\{\\}, like \\{init_mask\\}, \\{video_mask\\}, \\{everywhere\\}" : "默认变量：\\{\\}，比如 \\{init_mask\\}, \\{video_mask\\}, \\{everywhere\\}",
-  "Default view for Extra Networks" : "默认附加模型视图",
+  "Default view for Extra Networks" : "默认扩展模型视图",
   "delete" : "删除",
   "Delete" : "删除",
   "Delete Imgs" : "删除图像",
