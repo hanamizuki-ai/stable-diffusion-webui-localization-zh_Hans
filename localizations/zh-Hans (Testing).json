@@ -1349,7 +1349,7 @@
   "integrations" : "集成功能",
   "interactive splines and Bezier curves" : "交互式样条曲线和贝赛尔曲线",
   "Intermediate files path" : "中间步骤生成文件目录",
-  "Intermediate results may look better than the end results. /!\\ Intermediate results are cleaned after each run, save them elsewhere if you want to keep them." : "中间的结果可能比最终结果看起来更好。/!\\中间的结果在每次运行后都会被清理，如果你想保留它们，就把它们保存在其它地方",
+  "Intermediate results may look better than the end results. /!\\ Intermediate results are cleaned after each run, save them elsewhere if you want to keep them." : "中间的结果可能比最终结果看起来更好。提示: 中间的结果在每次运行后都会被清理，如果你想保留它们，就把它们保存在其它地方",
   "internal order" : "内部排序",
   "Interpolation" : "插值",
   "interpolation method" : "插值模式",
