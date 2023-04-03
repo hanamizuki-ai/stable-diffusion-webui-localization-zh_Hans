@@ -2763,6 +2763,7 @@
   "tanh" : "tanh",
   "tanhshrink" : "tanhshrink",
   "Target" : "目标",
+  "Target ControlNet number" : "目标 ControlNet 编号",
   "Target dataset num: 0" : "目标数据集数量：",
   "Target language" : "目标语言",
   "Target size type" : "目标尺寸类型",
