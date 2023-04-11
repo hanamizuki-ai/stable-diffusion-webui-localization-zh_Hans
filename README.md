@@ -15,5 +15,7 @@
 
 - **（推荐）** 通过开启 [启动器](https://www.bilibili.com/video/BV1ne4y1V7QU) 高级选项内 “启用云端页面汉化” 开关。
 - 通过安装扩展：
-  - 国内：`https://jihulab.com/hunter0725/stable-diffusion-webui-localization-zh_Hans.git`
+  - 国内：
+    - `https://gitcode.net/overbill1683/stable-diffusion-webui-localization-zh_Hans.git`
+    - `https://jihulab.com/hunter0725/stable-diffusion-webui-localization-zh_Hans.git`
   - 国际：`https://github.com/hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans.git`
