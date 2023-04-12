@@ -484,7 +484,7 @@
   "CLIP Skip" : "CLIP 跳过",
   "CLIP: skip inquire categories" : "CLIP：跳过查询类别",
   "CLIP skip schedule" : "跳过 CLIP 层数表",
-  "clip_threshold" : "比对得分阈值",
+  "clip_threshold" : "裁剪阈值",
   "Close" : "关闭",
   "Closer is brighter" : "越近越亮",
   "Close the video" : "关掉视频",
