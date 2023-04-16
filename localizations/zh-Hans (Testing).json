@@ -1386,7 +1386,7 @@
   "Interpolation method" : "插值算法",
   "Interpolation Method" : "融合算法",
   "Interrogate" : "反推提示词",
-  "Interrogate\nCLIP" : "　　CLIP　　 反推提示词\n",
+  "Interrogate\nCLIP" : "CLIP\n反推提示词",
   "Interrogate\nDeepBooru" : "DeepBooru\n反推提示词",
   "Interrogate: deepbooru score threshold" : "反推：deepbooru 分数阈值",
   "Interrogate: deepbooru sort alphabetically" : "反推：deepbooru 按字母顺序排序",
