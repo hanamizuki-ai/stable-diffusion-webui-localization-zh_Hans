@@ -2929,7 +2929,6 @@
   "This will produce the following prompts:" : "会产生下列提示词",
   "This will produce three prompts, one for each color. The prompt tag is used to mark the text that will be used as the prompt. If no prompt tag is present then only one prompt is assumed" : "会产生三条提示词，每个颜色各一条；\n prompt 标签用于标记作为提示词的文本；\n 如果没有 prompt 标签则默认为仅一条提示词",
   "This will randomly choose one of the three colors." : "会随机从三种颜色中选一个",
-  "threshold" : "阈值",
   "Threshold" : "阈值",
   "Threshold A" : "阈值A（此值根据预处理器选项不同发生变化，滑动条不可用时代表此预处理器无该项设置）",
   "Threshold B" : "阈值B（此值根据预处理器选项不同发生变化，滑动条不可用时代表此预处理器无该项设置）",
