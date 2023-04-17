@@ -384,6 +384,7 @@
   "Cancel" : "取消",
   "Cancel generate forever" : "停止无限生成",
   "Cancel training." : "取消训练",
+  "canny" : "Canny 边缘检测（Canny edge detection）",
   "Canny high threshold" : "强边缘判断阈值（Canny high threshold）",
   "Canny low threshold" : "弱边缘判断阈值（Canny low threshold）",
   "Canvas Height" : "画布高度",
