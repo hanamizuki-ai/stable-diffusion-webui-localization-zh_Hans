@@ -2598,7 +2598,7 @@
   "Send to img2img" : "发送到 图生图",
   "Send to img2img:" : "发送到 图生图：",
   "Send to img2img ControlNet" : "发送到 图生图 ControlNet",
-  "Send to inpaint" : "发送到 局部重绘",
+  "Send to inpaint" : "发送到 重绘",
   "Send to inpaint upload" : "发送到 重绘蒙版",
   "Send to ip2p" : "发送到 图生图 pix2pix",
   "Send to Layer1" : "发送到图层 1",
