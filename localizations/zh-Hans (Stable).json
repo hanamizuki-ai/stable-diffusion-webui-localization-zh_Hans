@@ -314,6 +314,7 @@
   "Denoising strength" : "重绘幅度 (Denoising strength)",
   "Depth" : "深度",
   "Depth Map" : "深度图",
+  "depth_midas" : "depth_midas（MiDaS 深度图估算）",
   "Depth (Midas/Adabins)" : "深度模式 (Midas / Adabins)",
   "Depth Prediction" : "深度估计预处理",
   "Depth Prediction demo" : "深度估计预处理 Demo",
