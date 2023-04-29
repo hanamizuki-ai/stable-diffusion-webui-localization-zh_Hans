@@ -2446,6 +2446,7 @@
   "Restart" : "重启",
   "Restart debug" : "重启调试",
   "Restart Gradio and Refresh components (Custom Scripts, ui.py, js and css only)" : "重启 Gradio 及刷新组件（仅限自定义脚本、ui.py、js 和 css）",
+  "Restart UI" : "重载前端",
   "Restore Checkpoint after process" : "完成后恢复开始前选择的模型(ckpt)",
   "Restore faces" : "面部修复",
   "Restore Faces" : "面部修复",
