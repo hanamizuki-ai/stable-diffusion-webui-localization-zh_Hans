@@ -1399,6 +1399,8 @@
   "Set your total number of keyframes to be 21 more than the last inserted keyframe image." : "将关键帧总数设置为比上次插入的关键帧图像多21个。",
   "Shapes" : "形状",
   "Show all pages" : "显示所有设置页",
+  "Show batch images in gradio gallerie output" : "在 Gradio Gallerie 输出中批量显示图像",
+  "Show batch images in gradio gallery output" : "在 Gradio Gallery 输出中批量显示图像",
   "Show Button On Thumb Mode" : "在缩略图模式下显示按钮",
   "Show Civitai Link events in the console" : "在控制台输出 Civitai Link 事件",
   "Show console debug" : "在控制台显示调试信息",
