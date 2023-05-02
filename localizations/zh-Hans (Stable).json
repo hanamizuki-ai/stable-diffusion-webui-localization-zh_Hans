@@ -919,6 +919,7 @@
   "Move to favorites" : "　移动到收藏夹",
   "Move VAE and CLIP to RAM when training if possible. Saves VRAM." : "如果可行，训练时将 VAE 和 CLIP 模型从显存移动到内存，可节省显存",
   "Move VAE to GPU" : "将 VAE 移动到 GPU",
+  "Move VAE to GPU (if possible)" : "将 VAE 移动到 GPU (如果允许)",
   "Multi ControlNet: Max models amount (requires restart)" : "多重 ControlNet 的最大模型数量 (需重启)",
   "Multi-frame rendering" : "多帧渲染",
   "Multi Model Merge" : "多模型合并",
