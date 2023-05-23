@@ -410,7 +410,7 @@
   "booru2prompt" : "booru转提示词",
   "Booru Score Threshold" : "Booru 极限阈值",
   "Booru tag autocompletion" : "Booru 标签(tag)自动补全",
-  "BOOST (multi-resolution merging)" : "BOOST（分块生成后合并）",
+  "BOOST (multi-resolution merging)" : "BOOST（分块生成后拼合）",
   "border" : "边框",
   "Border" : "边缘",
   "both" : "全部",
