@@ -160,7 +160,7 @@
   "append" : "追加",
   "Append" : "追加至末尾",
   "Append Hires prompts to the end of the original prompts instead of replacing it." : "将高分辨率修复提示词追加到原始提示词的末尾，而不是替换它们",
-  "Append interrogated prompt at each iteration" : "在每次迭代时添加反推出的提示词",
+  "Append interrogated prompt at each iteration" : "在每次迭代时添加何种反推模型反推出的提示词",
   "Append prompts, not replace" : "追加提示词 (非替换)",
   "Apply" : "应用",
   "Apply and restart UI" : "应用更改并重载前端",
