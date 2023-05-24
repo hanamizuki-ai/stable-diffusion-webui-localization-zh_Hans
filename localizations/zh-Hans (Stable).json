@@ -1700,6 +1700,7 @@
   "Save JSON" : "保存为 JSON 格式",
   "Save mask" : "保存蒙版",
   "Save masked image" : "保存蒙版后图像",
+  "Save mask previews" : "保存蒙版预览",
   "Save Metadata" : "保存元数据",
   "save model" : "保存模型",
   "Save original image" : "保存原始图像",
