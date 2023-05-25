@@ -319,7 +319,7 @@
   "Clip and renormalize" : "衰减与规格化",
   "CLiP model" : "CLiP 模型",
   "Clip skip" : "CLIP 终止层数",
-  "CLIP Skip" : "CLIP 跳过",
+  "CLIP Skip" : "CLIP 终止层数",
   "CLIP skip schedule" : "CLIP 终止层数计划表",
   "clip_threshold" : "裁剪阈值",
   "Close" : "关闭",
