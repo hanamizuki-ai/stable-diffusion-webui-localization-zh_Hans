@@ -48,6 +48,7 @@
   "Add difference:A+(B-C)*alpha" : "差额叠加: A+(B-C)*α",
   "Add extended info (seed, prompt) to filename when saving grid" : "保存网格图时，将扩展信息（随机种子、提示词）添加到文件名",
   "Add hypernetwork to prompt" : "将 hypernetwork 添加到提示词",
+  "Add inpaint batch mask directory to enable inpaint batch processing." : "添加重绘蒙版目录以启用重绘蒙版功能",
   "Additional Generation Info" : "附加生成信息",
   "Additional tags (split by comma)" : "附加提示词 (逗号分隔)",
   "Add layer normalization" : "启用网络层标准化处理",
