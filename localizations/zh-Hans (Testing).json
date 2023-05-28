@@ -305,6 +305,7 @@
   "A prompt for generating classification/regularization images. See the readme for more info." : "生成分类/规范化图像用的提示词。详细信息请参阅 readme",
   "a random seed will be used on each frame of the animation" : "随机种子将被应用于每帧动画中",
   "A range can be provided:" : "项数可以有范围",
+  "Archive filename pattern" : "归档文件名格式",
   "Area" : "区域",
   "Area (large to small)" : "面积 (从大到小)",
   "Area lower bound" : "图片最小面积（宽*高）",
