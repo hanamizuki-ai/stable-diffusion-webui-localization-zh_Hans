@@ -2415,7 +2415,7 @@
   "Only store preferences locally" : "仅在本地保存设置",
   "Only use mid-control when inference" : "仅在生成图片时使用中间层控制 (mid-control)",
   "Only use Random seeds (Unless comparing paths)" : "只用随机种子 (除非需要对比变迁轨迹)",
-  "Onnx model filename" : "Onnx 模型文件名",
+  "Onnx model filename" : "Onnx 模型文件名 (包含路径)",
   "ONNX opset version" : "ONNX 算子集版本",
   "(O)Output Model Name" : "输出模型文件名",
   "Opacity" : "不透明度",
