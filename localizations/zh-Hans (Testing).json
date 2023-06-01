@@ -229,6 +229,7 @@
   "All" : "全部",
   "All Displayed Ones" : "所有已显示的",
   "All models in this directory will receive the selected model's metadata" : "此目录下所有模型都将被粘贴与选中模型完全相同的元数据",
+  "all --> normally picks a image type as random. Can choose a ‘other’ more unique type." : "all -- 全部 --> 通常会随机选择一个图像类型。可以选择一个 \"其它\" 更独特的类型。",
   "Allow detectmap auto saving" : "允许自动保存检测图 (detected maps)",
   "Allowed categories for random artists selection when using the Roll button" : "使用抽选艺术家按钮时将会随机的艺术家类别",
   "Allow img2img" : "允许图生图",
