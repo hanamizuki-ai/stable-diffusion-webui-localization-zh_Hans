@@ -1986,7 +1986,7 @@
   "same to Strength" : "与强度相同",
   "SAM Model" : "SAM 模型",
   "sampler" : "采样器",
-  "Sampler" : "采样器",
+  "Sampler" : "采样方法",
   "Sampler parameters" : "采样器参数",
   "Sampler schedule" : "采样器参数表",
   "Sampling method" : "采样方法 (Sampler)",
