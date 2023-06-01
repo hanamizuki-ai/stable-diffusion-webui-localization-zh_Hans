@@ -693,7 +693,7 @@
   "End Page" : "尾页",
   "Engine" : "引擎",
   "Enhance" : "增强",
-  "Enhanced img2img" : "图生图增强",
+  "Enhanced img2img" : "Enhanced img2img (图生图增强)",
   "(ENSD; does not improve anything, just produces different results for ancestral samplers - only useful for reproducing images)" : "(ENSD: 对图像质量无任何提升, 只为 ancestral 采样方法产生不同的结果 - 仅对复现图像有用)",
   "Enter categody ids, separated by +. For example, if you want bed+person, your input should be 7+12 for ade20k and 59+0 for coco." : "在此输入类别 ID，用 + 分隔。例如，如果你想分割出 床 + 人，使用ade20k协议应该输入 7 + 12，使用coco协议应该输入 59 + 0。",
   "Enter category IDs" : "输入类别ID",
