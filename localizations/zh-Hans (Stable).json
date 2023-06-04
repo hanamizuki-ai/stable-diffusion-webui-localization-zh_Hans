@@ -1,6 +1,6 @@
 {
   "(0 = disable)" : "(0 = 禁用)",
-  "(0=disable, higher=faster)" : "(0=禁用, 数值越大=越快速)",
+  "(0=disable, higher=faster)" : "(0 = 禁用, 数值越大 = 越快速)",
   "(0 = maximum effect; 1 = minimum effect)" : "(0 = 最大强度; 1 = 最小强度)",
   "(0 = No limit)" : "(0 = 无限制)",
   "(0 = no tiling)" : "(0=不分块)",
@@ -191,7 +191,9 @@
   "API info may not be necessary for some boorus, but certain information or posts may fail to load without it. For example, Danbooru doesn't show certain posts in search results unless you auth as a Gold tier member." : "API 信息对于某些 booru 站点可能不是必需的，但如果没有它，某些信息或图帖可能无法加载。 例如，除非你的 API 验证属于黄金会员，否则 Danbooru 可能不会在搜索结果中显示某些图帖。",
   "append" : "追加",
   "Append" : "追加至末尾",
+  "Append Caption to File Name" : "将描述文本追加到文件名之后",
   "Append comma on tag autocompletion" : "自动添加逗号",
+  "Append commas" : "追加逗号",
   "Append Hires prompts to the end of the original prompts instead of replacing it." : "将高分辨率修复提示词追加到原始提示词的末尾，而不是替换它们",
   "Append interrogated prompt at each iteration" : "在每次迭代时添加何种反推模型反推出的提示词",
   "Append prompts, not replace" : "追加提示词 (非替换)",
