@@ -1946,7 +1946,7 @@
   "It will then recognize the body type and not generate it. It also recognizes the keyword wearing, and will not generate an outfit." : "然后，它将识别体型来避免生成对应体型。它同样能识别关键词 \"穿着\"，避免生成服装。",
   "It will translate prompt from your native language into English. So, you can write prompt with your native language." : "这会将您输入的提示词翻译为英文。因此，您可以直接用母语输入提示词。",
   "I want to preview GroundingDINO detection result and select the boxes I want." : "我想预览 GroundingDINO 的结果并选择我想要的箱体。",
-  "JavaScript aspect ratio buttons (1:1, 4:3, 16:9, 9:16, 21:9)" : "Java 脚本纵横比按钮 (填入类似于 1:1, 4:3, 16:9, 9:16, 21:9 的纵横比)",
+  "JavaScript aspect ratio buttons (1:1, 4:3, 16:9, 9:16, 21:9)" : "JavaScript 纵横比按钮 (填入类似于 1:1, 4:3, 16:9, 9:16, 21:9 的纵横比)",
   "Javascript logs" : "Javascript 日志",
   "JavaScript selection method" : "JavaScript 选择样式",
   "Jinja2 documentation." : "Jinja2 文档",
