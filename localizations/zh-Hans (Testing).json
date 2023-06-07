@@ -3220,6 +3220,7 @@
   "Run from Settings file" : "加载配置文件",
   "Run Merge" : "开始合并",
   "Run on incomplete" : "中断后仍然运行",
+  "Run preprocessor" : "运行预处理",
   "Run Python code. Advanced user only. Must run program with --allow-code for this to work" : "运行 Python 代码。仅限老手使用。必须以 --allow-code 来开启程序，才能使其运行",
   "Run: Sampler, Width, Height, tiling, resize seed." : "运行参数： 采样器，宽度，高度，平铺图，种子大小调整",
   "Run: seed, subseed, subseed strength." : "运行参数：第二种子，第二种子强度",
