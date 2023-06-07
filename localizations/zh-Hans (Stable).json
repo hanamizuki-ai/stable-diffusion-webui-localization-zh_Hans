@@ -2636,7 +2636,7 @@
   "Source" : "来源",
   "Source directory" : "源目录",
   "Source URL where this model could be found" : "该模型发布的原始网址",
-  "space" : "space (空间艺术/空格)",
+  "space" : "space (空格/空间艺术)",
   "Specific branch name" : "特定分支名",
   "specify a custom settings file and ignore settings displayed in the interface" : "指定自定义设置文件并忽略界面中显示的设置",
   "Specify the amount that you wish to expand the mask by (recommend 0-10)" : "设定蒙版扩展量（建议0-10）",
