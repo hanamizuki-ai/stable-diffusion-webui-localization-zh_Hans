@@ -692,7 +692,7 @@
   "(directory is hidden if its name starts with \".\".)" : "(如果目录的名称以 \".\" 开头, 就会被隐藏)",
   "Directory name pattern" : "目录名称格式",
   "Disable" : "禁用",
-  "Disable all extensions" : "禁用所有扩展",
+  "Disable all extensions" : "停用所有扩展",
   "Disable control type selection" : "禁用控制类型筛选",
   "disable convert 'AND' to 'BREAK'" : "不再将 \"AND \"转换为 \"BREAK\"",
   "disabled" : "禁用",
