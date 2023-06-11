@@ -1344,6 +1344,7 @@
   "Inpaint masked" : "重绘蒙版内容",
   "Inpaint not masked" : "重绘非蒙版内容",
   "inpaint_only" : "inpaint_only (仅局部重绘)",
+  "inpaint_only+lama" : "inpaint_only+lama (仅局部重绘 + 大型蒙版)",
   "Inpaint only masked" : "仅重绘蒙版内容",
   "Inpaint only masked 2nd" : "仅重绘蒙版内容",
   "Inpaint only masked 3rd" : "仅重绘蒙版内容",
