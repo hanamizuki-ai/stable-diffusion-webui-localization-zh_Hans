@@ -265,7 +265,7 @@
   "Auto focal point crop" : "自动面部焦点剪裁",
   "automatic" : "自动",
   "Automatic" : "自动",
-  "“automatic” is entirely build around Latent Couple. It will pass artists and the amount of people/animals/objects to generate in the prompt automatically. Set the prompt compounder equal to the amount of areas defined in Laten Couple." : "\"自动\" 是完全围绕 Latent Couple 构建的。它将在提示词中自动传递艺术家和要生成的人/动物/物件的数量。将提示混合值设置为等于 Laten Couple 中定义的分区数量。",
+  "“automatic” is entirely build around Latent Couple. It will pass artists and the amount of people/animals/objects to generate in the prompt automatically. Set the prompt compounder equal to the amount of areas defined in Laten Couple." : "\"自动\" 是完全围绕 Latent Couple 构建的。它将在提示词中自动传递艺术家和要生成的人/动物/物件的数量。将提示词混合值设置为等于 Latent Couple 中定义的分区数量。",
   "Auto SAM" : "自动 SAM",
   "Auto SAM Config" : "自动 SAM 配置",
   "Auto SAM is mainly for semantic segmentation and image layout generation, which is supported based on ControlNet. You must have ControlNet extension installed, and you should not change its directory name (sd-webui-controlnet)." : "自动 SAM主要用于语义分割和图像分层，基于 ControlNet。你必须安装 ControlNet 扩展，并且不能修改目录名 (sd-webui-controlnet)。",
