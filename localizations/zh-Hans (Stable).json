@@ -1822,6 +1822,7 @@
   "Motion" : "运动参数",
   "Mov2Mov output path for image" : "Mov2Mov 图片输出路径",
   "Mov2Mov output path for vedio" : "Mov2Mov 视频输出路径",
+  "Mov2Mov output path for video" : "Mov2Mov 视频输出路径",
   "Move buttons copy instead of move" : "将图库浏览器内所有 \"移动\" 按钮改为 \"复制\" 按钮",
   "Move completion popup together with text cursor" : "将弹出窗口与文本光标一起移动",
   "Move ControlNet images to CPU (if applicable)" : "将 ControlNet 图像移动到 CPU (如果适用)",
