@@ -3832,6 +3832,8 @@
   "stable-diffusion-webui-wildcards" : "通配符",
   "Stackable" : "可堆叠",
   "Stackable checkbox is not used for saves, it's used when making a selection from the dropdown, whether to apply as stackable or not" : "可堆叠复选框不用于保存，它用于从下拉列表中进行选择，无论是否应用为可堆叠",
+  "stage 1" : "步骤 1",
+  "stage 2" : "步骤 2",
   "stained glass" : "stained glass (彩色玻璃)",
   "Start Auto Translate" : "开始自动翻译",
   "Start batch process" : "开始批量处理",
