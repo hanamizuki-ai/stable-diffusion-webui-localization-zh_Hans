@@ -4388,6 +4388,7 @@
   "Use inpaint width/height" : "启用自定义重绘宽高",
   "Use input image's alpha channel as mask" : "使用输入图像的透明度通道作为遮罩",
   "Use Interrogator Caption" : "使用 Interrogator 打标",
+  "Use Jit" : "使用实时产出模式",
   "Use kohya-ss's finetuning metadata json" : "使用 kohya-ss 的微调 metadata json",
   "Use local groundingdino to bypass C++ problem" : "使用本地 Groundingdino 以绕过 C++ 问题",
   "Use Lora in uc diffusion model" : "在反向扩散模型中使用 LoRA",
