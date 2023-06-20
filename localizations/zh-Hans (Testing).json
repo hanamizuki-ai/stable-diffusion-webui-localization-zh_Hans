@@ -4137,7 +4137,7 @@
   "This is your models list." : "这是您的模型列表",
   "This mode works ONLY with 2D/3D animation modes. Interpolation and Video Input modes aren't supported." : "此模式仅适用于2D/3D动画模式。不支持帧插值和视频输入模式。",
   "This page allows you to change default values in UI elements on other tabs." : "本页面允许你去修改其它标签页中的 UI 默认设置",
-  "This panel is for those who want to upload mask to ControlNet inpainting. It is not part of the SAM feature. It might be removed someday when ControlNet support uploading image and mask. It serves as a temporarily workaround to overcome the unavailability of image with mask uploading feature in ControlNet extension." : "此面板是为想把蒙版上传到 ControlNet 重绘的人准备的。这不是 SAM 的功能。当某天 ControlNet 支持上传图像和蒙版时，此功能可能会删除。这是临时变通的方案，以解决 ControlNet 不能上传蒙版的问题。",
+  "This panel is for those who want to upload mask to ControlNet inpainting. It is not part of the SAM feature. It might be removed someday when ControlNet support uploading image and mask. It serves as a temporarily workaround to overcome the unavailability of image with mask uploading feature in ControlNet extension." : "此面板是为想把蒙版上传到 ControlNet 重绘的人准备的。这不是 SAM 的功能。当某天 ControlNet 支持上传图像和蒙版时，此功能可能会删除。这是一个临时解决方案，以解决 ControlNet 不能上传蒙版的问题。",
   "This preset affects?" : "该预设中包含？",
   "This regular expression will be used extract words from filename, and they will be joined using the option below into label text used for training. Leave empty to keep filename text as it is." : "该正则表达式将用于从文件名中提取单词，并将它们合并到用于训练的标签文本中。留空以保持文件名文本不变。",
   "This requires Controlnet 1.1 extension and the tile resample model, install this if you haven't\nIn settings for Controlnet, enable \"Allow other script to control this extension\"" : "这需要 ControlNet 1.1 插件和 tile resample 预处理器对应的模型，如果没有请安装！\n在设置页面的 ControlNet 设置中启用 ”允许其它脚本控制本插件“ 。",
