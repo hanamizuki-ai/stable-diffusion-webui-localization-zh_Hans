@@ -663,6 +663,7 @@
   "CLIP: maximum number of lines in text file (0 = No limit)" : "CLIP：文本文件中的最大行数（0 为无限制）",
   "CLiP model" : "CLiP 模型",
   "clipseg" : "CLIP分割",
+  "clipseg options" : "CLIPSeg 选项",
   "Clip skip" : "CLIP 终止层数",
   "Clip Skip" : "CLIP 终止层数",
   "CLIP Skip" : "CLIP 终止层数",
