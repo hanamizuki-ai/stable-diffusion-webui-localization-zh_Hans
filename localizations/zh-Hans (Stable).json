@@ -2592,7 +2592,7 @@
   "save setting" : "保存设置",
   "Save Setting" : "保存设置",
   "save settings" : "储存设置",
-  "Save Settings" : "储存设置",
+  "Save Settings" : "保存设置",
   "Saves Optimizer state as separate *.optim file. Training of embedding or HN can be resumed with the matching optim file." : "将优化器状态保存为单独的 optim 文件。在训练嵌入式模型或者超网格化模型时可以根据匹配上的 optim 文件恢复训练进度",
   "Save style" : "将当前提示词储存为预设样式",
   "save successful" : "保存成功",
