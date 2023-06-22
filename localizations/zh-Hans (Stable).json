@@ -195,7 +195,7 @@
   "Amount times to repeat upscaling with IMG2IMG (loopback)" : "通过图生图放大的重复次数 (回送)",
   "and" : "与",
   "and generate images according to random segmentation which preserve image layout." : " 来根据保存图像的布局随机分割生成图像。",
-  "and report your problem." : "反馈您遇到的问题。",
+  "and report your problem." : "反馈遇到的问题",
   "and upscale to the size of the original video." : "放大图片到原始视频的尺寸。",
   "A negative prompt to use when generating preview images." : "生成预览图像时使用的反向提示词",
   "Angle" : "角度",
