@@ -2740,7 +2740,7 @@
   "Selected" : "选择",
   "(selected items appear first)" : "(选中组件优先显示)",
   "Select joining char" : "选择分隔符",
-  "Select keyframes to be given to ebsynth." : "选择关键帧提交到 Ebsynth。",
+  "Select keyframes to be given to ebsynth." : "Ebsynth 提取关键帧。",
   "Select Layer weights initialization. Recommended: Kaiming for relu-like, Xavier for sigmoid-like, Normal otherwise" : "选择初始化层权重的方案。建议：类relu 用 Kaiming； 类sigmoid 用 Xavier；其它就用正态",
   "Select prompt" : "选择提示词",
   "Select Translater" : "选择翻译引擎",
