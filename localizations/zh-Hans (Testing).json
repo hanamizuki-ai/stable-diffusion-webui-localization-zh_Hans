@@ -1242,6 +1242,7 @@
   "Each Tags" : "每个标签",
   "Early stopping parameter for CLIP model; 1 is stop at last layer as usual, 2 is stop at penultimate layer, etc." : "CLIP 模型的提前终止层参数；1是像往常一样停在最后一层，2是停在倒数第二层，以此类推",
   "EBSynth Mode" : "EBSynth 模式",
+  "Ebsynth-Process" : "Ebsynth-流程",
   "EBSynth Settings" : "Ebsynth 设置",
   "[Ebsynth Utility]->[configuration]->[stage 2]->[Threshold of delta frame edge]" : "[Ebsynth Utility]->[插件设置]->[步骤 2]->[关键帧间隔增量阈值]",
   "edit" : "编辑",
