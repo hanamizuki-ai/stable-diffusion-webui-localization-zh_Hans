@@ -4668,6 +4668,7 @@
   "Use PNG alpha channel as loss weight" : "使用 PNG 图片的透明通道作为 loss 权重",
   "Use Preprocess image If exists in /controlnet_preprocess" : "使用预处理图像（如果存在/controlnet_preprocess目录）",
   "Use prompt from preview image" : "一键使用本模型预览图所使用的提示词",
+  "Use punctuation?" : "使用标点符号",
   "user" : "用户",
   "Use random seeds for sub-generations when doing a rolling generation (WARNING!!! The result will be non-deterministic!!!)" : "在进行梯度放大倍数生成时, 对子代生成应用随机种子 (警告!!! 图像结果随机无法复现!!!)",
   "Use raw CLIP token to calculate token count (without emphasis or embeddings)" : "使用原始 CLIP 词元数计算词元长度（不含 emphasis 或 embeddings）",
