@@ -3527,6 +3527,7 @@
   "Repetition Penalty" : "重复惩罚",
   "replace" : "取代",
   "Replace Class with Subject in Caption" : "将描述文本中的类(Class)替换成主体(Subject)",
+  "Replace new-line character with comma" : "用逗号替换换行符",
   "Replace order" : "取代顺序",
   "Replace order (replace mode)" : "取代顺序 (取代模式)",
   "Replace or save the selected component." : "替换或保存所选组件",
