@@ -1703,6 +1703,7 @@
   "Generate a preview image every N steps, 0 to disable" : "每隔 N 步生成一次预览图，设置为 0 以禁用",
   "Generate a sequence of images shifting attention in the prompt. This script enables you to give a range to the weight of tokens in a prompt and then generate a sequence of images stepping from the first one to the second." : "根据提示词生成一系列关注逐渐转移的图像。此脚本使你能够在提示词中为词元(token)的权重指定一个范围，然后生成从一端到另一端的一系列图像",
   "Generate Batch" : "批量处理",
+  "Generate bounding box" : "创建箱体框",
   "Generate Captions" : "生成描述文本",
   "Generate Ckpt" : "创建模型",
   "Generate .ebs file.(ebsynth project file)" : "生成 .ebs 文件。（Ebsynth 工程文件）",
