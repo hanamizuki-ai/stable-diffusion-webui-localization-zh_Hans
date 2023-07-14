@@ -3008,6 +3008,7 @@
   "Shapes" : "形状",
   "Sharpness:" : "锐化度",
   "should be 2 or lower." : "应小于等于2",
+  "Show Additional Generation Info" : "显示附加生成信息",
   "Show all pages" : "显示所有设置页",
   "Show all results" : "展示所有候选标签",
   "Show API Key" : "显示 API Key",
