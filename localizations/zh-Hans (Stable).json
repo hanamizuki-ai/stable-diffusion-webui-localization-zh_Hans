@@ -988,6 +988,7 @@
   "Enable Maintenance tab" : "启用 \"维护\" 选项卡",
   "Enable model compile (experimental)" : "启用模型编译优化（实验性）",
   "Enable MultiDiffusion" : "启用 MultiDiffusion",
+  "Enable neutral-prompt extension" : "启用 Neutral Prompt 扩展",
   "Enable noise multiplier scheduling" : "启用噪声乘法 (noise multiplier) 调度",
   "Enable optimized monocular depth estimation" : "启用单色深度估算优化 (optimized monocular depth estimation)",
   "Enable overwrite" : "允许覆盖",
