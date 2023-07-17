@@ -3828,7 +3828,7 @@
   "Use separate CFG scale 3rd" : "使用独立的提示词引导系数",
   "Use separate CFG scale 4th" : "使用独立的提示词引导系数",
   "Use separate CFG scale 5th" : "使用独立的提示词引导系数",
-  "Use separate noise multiplier" : "使用单独的噪声参数",
+  "Use separate noise multiplier" : "使用独立噪声参数",
   "Use separate steps" : "使用独立迭代步数",
   "Use separate steps 2nd" : "使用独立迭代步数",
   "Use separate steps 3rd" : "使用独立迭代步数",
