@@ -1866,6 +1866,7 @@
   "keep whatever was there originally" : "保留原来的图像，不进行预处理",
   "Kernel schedule" : "Kernel 调度计划",
   "kernel size" : "画笔大小",
+  "key for Fullscreen mode," : "键进入全屏模式，",
   "Keyframes" : "关键帧",
   "Keyframes: animation settings (animation mode, max frames, border)" : "关键帧：动画设置（动画模式，最大帧数，边界）",
   "Keyframes are output to " : "关键帧已输出到 ",
