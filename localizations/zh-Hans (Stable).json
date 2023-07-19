@@ -2902,7 +2902,7 @@
   "reroll" : "回滚",
   "Reroll blank frames" : "回滚空白帧",
   "Reroll patience" : "回滚最大次数",
-  "Reserved: total amout of video memory allocated by the Torch library" : "预留：Torch 库分配的显存总量",
+  "Reserved: total amout of video memory allocated by the Torch library " : "预留：Torch 库分配的显存总量",
   "reset" : "重置",
   "↻ Reset" : "↻ 重置",
   "Reset" : "重置",
