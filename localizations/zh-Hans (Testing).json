@@ -3185,7 +3185,7 @@
   "openpose_hand" : "openpose_hand (OpenPose 姿态及手部)",
   "Open results" : "打开最终效果图",
   "Open TextEditor" : "打开文本编辑器",
-  "Open the generated .ebs under project directory and press [Run All] button." : "打开工程目录下生成的 .ebs 文件，按[Run All]按钮。",
+  "Open the generated .ebs under project directory and press [Run All] button." : "打开工程目录下生成的 .ebs 文件，然后按 [Run All] 按钮。",
   "Open this model's civitai url" : "在新标签页打开本模型的 Civitai 页面",
   "Open Url At Client Side" : "在浏览器侧打开链接",
   "Optical Flow" : "光流法",
