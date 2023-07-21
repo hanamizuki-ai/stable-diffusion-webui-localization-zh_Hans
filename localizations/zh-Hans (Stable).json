@@ -435,7 +435,7 @@
   "Batch Settings" : "批量处理设置",
   "batch size" : "批量大小",
   "Batch size" : "单批数量",
-  "Batch Size" : "单批数量",
+  "Batch Size" : "单批数量 (Batch Size)",
   "batch size in generation" : "生成的单批数量",
   "batch size, restore face, hires fix settigns must be set here" : "单批数量, 面部修复, 高分辨率修复等功能需要在本页面设置",
   "Batch-Warp" : "批量修复",
