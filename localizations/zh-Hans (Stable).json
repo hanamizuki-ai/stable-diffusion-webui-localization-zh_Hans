@@ -319,7 +319,7 @@
   "Append space on tag autocompletion" : "标签补全后自动添加空格",
   "Apply" : "应用",
   "Apply and quit" : "应用更改并退出",
-  "Apply and restart UI" : "应用更改并重载前端",
+  "Apply and restart UI" : "应用更改并重启",
   "Apply block weight from text" : "从文本框应用分块权重值",
   "Apply changes to ALL displayed images" : "将更改应用于所有已显示的图像",
   "Apply changes to filtered images" : "应用更改至过滤后的图片",
