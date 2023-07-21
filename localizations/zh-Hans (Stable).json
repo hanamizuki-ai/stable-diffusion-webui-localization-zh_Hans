@@ -3229,6 +3229,7 @@
   "Save original image" : "保存原始图像",
   "Save original image if face detection fails" : "若面部检测失败则保存原始图像",
   "Save original image with mask and bounding box" : "保存带有蒙版和箱体的原始图像",
+  "Save Outputs" : "保存输出结果",
   "Save PNG" : "保存为 PNG 格式",
   "\uD83D\uDCBE\uD83E\uDDCD Save Pose" : "\uD83D\uDCBE\uD83E\uDDCD 保存姿态",
   "save precision" : "保存精度",
