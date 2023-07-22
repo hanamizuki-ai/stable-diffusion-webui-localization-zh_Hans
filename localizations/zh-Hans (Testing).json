@@ -4765,6 +4765,7 @@
   "The model to train." : "要训练的模型",
   "The name of the model to create." : "要创建的模型的名称",
   "The number of Perlin noise octaves, that is the count of P-noise iterations. Higher values will make the noise more soft and smoke-like, whereas lower values will make it look more organic and spotty. It is limited by 8 octaves as the resulting gain will run out of bounds." : "柏林噪声倍频程数，即柏林噪声迭代次数。数值越大，噪点越柔和，越像烟雾；数值越小，噪点越有机，越有斑点。最大限制为 8 倍频程，因为更高倍数产生的增益将超出范围。",
+  "The number of steps per image (Epoch) to train the text encoder for. Set 0.5 for 50% of the epochs" : "每幅图像训练文本编码器 (TE/CLIP) 的步数。设置 0.5 相当于 50% 的 Epochs 。",
   "The number of steps to use when generating classifier/regularization images." : "生成分类/规范化图像时使用的步数",
   "The number of times the script will inference your image and increase the resolution in increments. The amount the resolution is increased each loop is determined by this number and the maximum image width/height.  The more loops, the more chances of your image picking up more detail, but also artifacts.  4 to 10 is what I find to work best, but you may like more or less." : "脚本将推断图像并逐步增加分辨率的次数。 每个循环增加的分辨率量由这个数字和最大图像宽度/高度决定。 循环次数越多，图像获得更多细节的机会就越大，但也会出现伪影。 4 到 10 为推荐数值，可按照需求调节。",
   "then use" : "然后使用",
