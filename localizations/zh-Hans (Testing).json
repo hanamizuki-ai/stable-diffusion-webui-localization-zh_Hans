@@ -2729,6 +2729,7 @@
   "LoRA model name filter" : "按名称过滤低秩微调 (LoRA) 模型",
   "Lora multiplier" : "Lora乘数",
   "Lora/Networks: use old method that takes longer when you have multiple Loras active and produces same results as kohya-ss/sd-webui-additional-networks extension" : "对于 Lora 等模型: 使用旧的加载方法，当多个 Lora 激活时需要更长的时间，并且可以生成与 kohya-ss/sd-webui-additional-networks 扩展相同的结果",
+  "LoRA prompt helper" : "LoRA 提示词助手",
   "Lo RA Prompt Helper" : "LoRA 提示词助手",
   "Lora: use old method that takes longer when you have multiple Loras active and produces same results as kohya-ss/sd-webui-additional-networks extension" : "Lora: 使用旧的加载方法，当多个 Lora 激活时需要更长的时间，并且可以生成与 kohya-ss/sd-webui-additional-networks 扩展相同的结果",
   "Loss for cond match (grad mode)" : "匹配文字调节(cond)损失 (梯度模式)",
