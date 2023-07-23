@@ -4336,6 +4336,7 @@
   "Select keyframes to be given to ebsynth." : "Ebsynth 提取关键帧。",
   "Select Layer weights initialization. Recommended: Kaiming for relu-like, Xavier for sigmoid-like, Normal otherwise" : "选择初始化层权重的方案。建议：类relu 用 Kaiming； 类sigmoid 用 Xavier；其他就用正态",
   "Select Layer weights initialization. relu-like - Kaiming, sigmoid-like - Xavier is recommended" : "选择初始化层权重的方案，类relu - Kaiming，类sigmoid - Xavier 都是比较推荐的选项",
+  "Select or Create a Model." : "选择或创建一个模型。",
   "Select or create a model to begin." : "选择或创建一个模型以开始",
   "Select prompt" : "选择提示词",
   "selects the type of animation" : "选择动画类型",
