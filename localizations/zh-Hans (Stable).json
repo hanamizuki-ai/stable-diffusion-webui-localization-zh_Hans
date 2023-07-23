@@ -2619,6 +2619,7 @@
   "Optical flow generation" : "光流生成",
   "Optimizations" : "优化设置",
   "(optional) separated by commas. EX: Character Name/Style Attributes" : "（可选）用逗号分隔，例如：Character Name/Style Attributes",
+  "Options" : "选项",
   "Options are all options hardcoded, and additional you added in additional_components.py" : "选项都是硬编码的选项，并且是您在 additional_components.py 中添加的附加选项",
   "Options in main UI" : "主界面额外选项",
   "- or -" : "- 或 -",

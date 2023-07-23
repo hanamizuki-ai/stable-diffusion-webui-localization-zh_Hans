@@ -3337,6 +3337,7 @@
   "(Optional) Path to directory with classification/regularization images" : "(可选) 带有分类/正则化图像的目录路径",
   "(optional) separated by commas. EX: Character Name/Style Attributes" : "（可选）用逗号分隔，例如：Character Name/Style Attributes",
   "Optional, uses selected model's directory if blank" : "可选，若留空则使用默认目录",
+  "Options" : "选项",
   "Options are all options hardcoded, and additional you added in additional_components.py" : "选项都是硬编码的选项，并且是您在 additional_components.py 中添加的附加选项",
   "Options can be given weights:" : "选项可以被赋予权重",
   "Options in main UI" : "主界面额外选项",
