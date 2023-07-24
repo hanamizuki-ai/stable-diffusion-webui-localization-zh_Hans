@@ -3863,7 +3863,7 @@
   "Token merging ratio for high-res pass" : "高分层的 Token 合并比率",
   "Token merging ratio for img2img" : "图生图的 Token 合并比率",
   "To Language" : "目标语言",
-  "ToMe for Hires. fix" : "为 Hires. fix 启用 ToMe 优化",
+  "ToMe for Hires. fix" : "为高分辨率修复启用 Tokens 合并优化",
   "ToMe Merging Ratio" : "ToMe 合并比率",
   "Tone Curve" : "色调曲线",
   "To next folder level" : "补全到下一级文件夹",
