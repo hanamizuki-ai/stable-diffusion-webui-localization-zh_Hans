@@ -291,7 +291,7 @@
   "and generate images according to random segmentation which preserve image layout." : " 来根据保存图像的布局随机分割生成图像。",
   "and report your problem." : "反馈遇到的问题",
   "and upscale to the size of the original video." : "放大图片到原始视频的尺寸。",
-  "A negative prompt to use when generating preview images." : "生成预览图像时使用的反向提示词",
+  "A negative prompt to use when generating preview images." : "用于生成预览图像的反向提示词。",
   "Angle" : "角度",
   "angular" : "angular (棱角)",
   "animal" : "animal (动物)",
