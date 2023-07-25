@@ -1472,7 +1472,7 @@
   "Generate 4 demo videos with 3D inpainted mesh." : "使用 3D 优化网格生成4个演示视频",
   "Generate a checkpoint at the current training level." : "保存一个位于当前训练进度的模型文件。",
   "Generate a checkpoint at the current training lvel." : "保存一个位于当前训练进度的模型文件。",
-  "Generate a .ckpt file when saving during training." : "训练中保存时生成一个 ckpt 文件。",
+  "Generate a .ckpt file when saving during training." : "训练过程中保存的同时生成一个 .ckpt 文件",
   "Generate a mask image." : "生成一个蒙版图像。",
   "Generate Batch" : "批量处理",
   "Generate Ckpt" : "创建模型",
