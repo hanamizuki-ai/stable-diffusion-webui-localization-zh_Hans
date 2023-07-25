@@ -3311,6 +3311,8 @@
   "sd_model_hash" : "SD 模型哈希值",
   "sd-parseq manifest" : "sd-parseq 配置文件",
   "SD VAE" : "外挂 VAE 模型",
+  "SDXL high aesthetic score" : "SDXL 美学分数高值",
+  "SDXL low aesthetic score" : "SDXL 美学分数低值",
   "Seams  denoise strenght" : "接缝重绘幅度",
   "Seams fix" : "接缝修复",
   "Seams Mask blur (offset pass only)" : "接缝蒙版边缘模糊程度 (仅偏移层)",
