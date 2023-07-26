@@ -8,7 +8,6 @@
   "(0 = maximum effect; 1 = minimum effect)" : "(0 = 最大强度; 1 = 最小强度)",
   "(0 = No limit)" : "(0 = 无限制)",
   "(0 = no tiling)" : "(0 = 不分块)",
-  "{{1-$$and$$__adjective__}}" : "{{1-3$$and$$__adjective__}}",
   "10. Generate" : "10. 生成",
   "{1-3$$artist1|artist2|artist3}" : "{1-3$$艺术家1|艺术家2|艺术家3}",
   "180 Degree Rotation" : "180 度旋转",
