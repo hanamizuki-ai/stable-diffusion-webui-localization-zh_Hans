@@ -3238,7 +3238,7 @@
   "None - prompt only" : "无 - 仅提示词",
   "norm" : "固定值",
   "normal" : "正常",
-  "Normal" : "常规",
+  "Normal" : "Normal",
   "Normal background threshold" : "背景识别阈值（Normal background threshold）",
   "normal_bae" : "normal_bae (Bae 法线贴图提取)",
   "Normalizes each image separately by mean and standard deviation in your dataset. Useful to preserve likeness to your images." : "根据数据集中的平均值和标准差分别对每幅图像进行归一化处理。有助于保持图像的相似性。",
