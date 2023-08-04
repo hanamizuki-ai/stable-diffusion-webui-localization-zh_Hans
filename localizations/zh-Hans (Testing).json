@@ -4578,7 +4578,7 @@
   "Set this to 2 to increase speed?" : "将此设置为 2 以提高速度？",
   " Setting" : "设置",
   "(setting entries that also appear in txt2img/img2img interfaces)" : "(配置同时出现在 文生图 / 图生图 界面的选项条目)",
-  "(setting entries that appear at the top of page rather than in settings tab)" : "(添加位于网页界面顶部的选项, 而不是在设置标签栏中)",
+  "(setting entries that appear at the top of page rather than in settings tab)" : "(添加位于网页界面顶部的选项, 而不是在设置选项卡中)",
   "Setting files" : "设置文件",
   "settings" : "设置",
   "Settings" : "设置",
