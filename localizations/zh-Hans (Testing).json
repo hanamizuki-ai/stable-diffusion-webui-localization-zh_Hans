@@ -3046,7 +3046,7 @@
   "Maximum Image Width:" : "图片最大宽度：",
   "Maximum Image Width/Height:" : "图片最大宽度/高度：",
   "Maximum keyframe gap" : "最大关键帧间隔",
-  "Maximum number of checkpoints loaded at the same time" : "Stable Diffusion 模型可同时加载最大数量",
+  "Maximum number of checkpoints loaded at the same time" : "Stable Diffusion 模型可同时加载的最大数量",
   "Maximum number of faces to detect" : "检测的最大人脸数量",
   "Maximum number of images in upscaling cache" : "图像放大缓存中的最大图片数量",
   "Maximum number of tags to be shown in the UI" : "UI 能显示的最大标签数量",
