@@ -3827,7 +3827,7 @@
   "Show extra networks" : "显示扩展模型面板",
   "Show extra options" : "显示额外选项",
   "Show generation progress in window title." : "在窗口标题中显示生成进度",
-  "Show gradio deprecation warnings in console." : "在控制台中显示 Gradio 的过时警告",
+  "Show gradio deprecation warnings in console." : "在控制台中显示 Gradio 的弃用警告",
   "Show grid in results for web" : "在网页输出结果中显示网格图",
   "Show HeatMap" : "展示热力图",
   "Show hidden directories" : "显示隐藏目录",
