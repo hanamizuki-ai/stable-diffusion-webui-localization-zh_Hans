@@ -467,6 +467,7 @@
   "Append DeepDanbooru to Caption" : "把 DeepDanbooru 的结果追加到已有的描述文本之后",
   "Append Hires prompts to the end of the original prompts instead of replacing it." : "将高分辨率修复提示词追加到原始提示词的末尾，而不是替换它们",
   "Append interrogated prompt at each iteration" : "在每次迭代时添加何种反推模型反推出的提示词",
+  "Append png info to prompts" : "将 PNG 信息添加到提示词中",
   "Append prompts, not replace" : "追加提示词 (非替换)",
   "Append space on tag autocompletion" : "标签补全后自动添加空格",
   "Applies mirroring and flips to the latent images to produce anything from subtle balanced compositions to perfect reflections" : "将图像的潜空间状态进行镜像和翻转，以生成从轻度平衡的构图到完全对称的任何图像",
