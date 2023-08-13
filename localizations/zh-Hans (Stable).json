@@ -708,7 +708,7 @@
   "Check tensors" : "检测 tensors",
   "check this box to enable guided images mode" : "选中该项启用图像引导模式",
   "Check this if you want to generate random prompts, even if your seed is fixed" : "勾选此选项可在随机种子固定的情况下依然生成随机提示词",
-  "* check your CLI for outputs" : "检查 CLI 的输出",
+  "* check your CLI for outputs" : "* 检查 CLI 的输出",
   "* check your CLI for outputs *" : "* 检查 CLI 的输出 *",
   "Chess" : "分块",
   "children's illustration" : "children's illustration (儿童画作)",
