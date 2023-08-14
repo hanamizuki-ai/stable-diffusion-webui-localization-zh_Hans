@@ -4704,6 +4704,7 @@
   "Search for Loras" : "检索 Lora 模型",
   "Search for LyCORIS/LoHa" : "检索 LyCORIS/LoHa 模型",
   "Search for wildcards" : "检索通配符",
+  "Search in wildcard names..." : "使用通配符名称检索...",
   "Search Mode" : "检索模式",
   "Search negative prompt" : "检索反向提示词",
   "Search Results" : "搜寻结果",
