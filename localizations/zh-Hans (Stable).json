@@ -1234,6 +1234,7 @@
   "Dolly" : "希区柯克（推轨变焦）",
   "Do not add watermark to images" : "不在图像上添加水印",
   "Do not append detectmap to output" : "不输出检测图 (detected maps) (如深度估算图、动作检测图等)",
+  "Do not apply ControlNet during highres fix" : "高分辨率修复过程中不应用 ControlNet",
   "Do not do anything special" : "什么都不做",
   "Do not fix prompt schedule for second order samplers." : "不为二阶采样方法修复提示词作用时间",
   "Do not make DPM++ SDE deterministic across different batch sizes." : "保留 DPM++ SDE 采样器 在不同的批次大小之间的结果差异",
