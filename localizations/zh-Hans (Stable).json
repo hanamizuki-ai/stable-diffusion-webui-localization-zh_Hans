@@ -2065,7 +2065,7 @@
   "Import Model from Huggingface Hub" : "从 Huggingface Hub 载入模型",
   "Import settings from file" : "从文件导入设置",
   "impressionism" : "impressionism (印象派)",
-  "(improves performance when prompt and negative prompt have different lengths; changes seeds)" : "(当正向提示词与反向提示词长度不同时可以提升性能; 影响随机性)",
+  "(improves performance when prompt and negative prompt have different lengths; changes seeds)" : "(当正向提示词与反向提示词长度不同时启用本选项可以提升性能; 影响随机性)",
   "IN00" : "输入层 00",
   "IN01" : "输入层 01",
   "IN02" : "输入层 02",
