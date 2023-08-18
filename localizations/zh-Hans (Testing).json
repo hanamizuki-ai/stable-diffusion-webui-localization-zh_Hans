@@ -2727,7 +2727,7 @@
   "Interrogate: keep models in VRAM" : "反推：将模型保留在显存中",
   "Interrogate: maximum description length" : "反推：最大描述长度",
   "Interrogate: minimum description length (excluding artists, etc..)" : "反推：最小描述长度（不包括艺术家等）",
-  "Interrogate: num_beams for BLIP" : "反推：BLIP 的 num_beams",
+  "Interrogate: num_beams for BLIP" : "反推：BLIP 集束数量",
   "Interrogate Options" : "反推设置",
   "Interrogate Result" : "反推结果",
   "Interrogate Selected Image" : "反推所选图片",

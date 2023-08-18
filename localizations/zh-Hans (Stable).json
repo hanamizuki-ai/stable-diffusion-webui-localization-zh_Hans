@@ -2280,6 +2280,7 @@
   "Interrogate\nDeepBooru" : "DeepBooru\n反推",
   "Interrogate image" : "反推图像",
   "Interrogate: keep models in VRAM" : "反推：将模型保留在显存中",
+  "Interrogate: num_beams for BLIP" : "反推：BLIP 集束数量",
   "Interrogate Options" : "反推设置",
   "Interrogate Result" : "反推结果",
   "Interrogate Selected Image" : "反推所选图片",
