@@ -9,12 +9,12 @@
 
 ## 选择文件
 
-### 用于 AUTOMATIC1111/stable-diffusion-webui
+### 用于 [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 - `zh-Hans (Stable)` 仅包含平台中标记已审阅的字串
 - `zh-Hans (Testing)` 包含所有翻译平台内含有译文的字串
 
-### 用于 vladmandic/automatic
+### 用于 [vladmandic/automatic](https://github.com/vladmandic/automatic)
 
 > 警告：该分支目前较为臃肿、设计混乱，因此我们对该分支提供完整支持的优先级较低。我们不建议无特殊需求的用户使用此分支。
 
