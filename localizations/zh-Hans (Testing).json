@@ -2114,6 +2114,7 @@
   "Free GPU": "释放显存",
   "Freeze CLIP Normalization Layers": "冻结 CLIP 归一化层",
   "Frequency": "频率",
+  "from": "从",
   "(from CivitAI)": "(来自 Civitai)",
   "From (full path)": "从 (输入完整路径)",
   "From img2img2 settings": "根据图生图的设置",
