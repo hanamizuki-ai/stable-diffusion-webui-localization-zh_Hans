@@ -1806,6 +1806,7 @@
   "for more detials": " 来查看更多细节",
   "for more info/ a Guide.": "获取更多信息 / 指南",
   "For negative prompts, please write your positive prompt, then --neg ugly, text, assymetric, or any other negative tokens of your choice. OR:": "对于反向提示词，请写出你的正向提示词，然后添加 --neg ugly,text,assymetric 等您选择的任何其他反向提示词。或者：",
+  "(For [red:green:N]; old: If N < 1, it's a fraction of steps (and hires fix uses range from 0 to 1), if N >= 1, it's an absolute number of steps; new: If N has a decimal point in it, it's a fraction of steps (and hires fix uses range from 1 to 2), othewrwise it's an absolute number of steps)": "(对于如 [red:green:N] 的表达式; 旧: 若 N < 1, 则其表示占总迭代步数的比例 (且高分辨率修复使用的范围是 0 - 1), 若 N >= 1, 则其表示一个确定的迭代步数数值; 新: 若 N 值含小数点, 则其表示占总迭代步数的比例 (且高分辨率修复使用的范围是 1 - 2), 其他情况则表示一个确定的迭代步数数值)",
   "For SD upscale, how much overlap in pixels should there be between tiles. Tiles overlap so that when they are merged back into one picture, there is no clearly visible seam.": "使用 SD 放大 (SD upscale) 时，分块(Tiles)间的像素重叠宽度\n分块(Tiles)间重叠有助于使它们合并最终图像时避免过于明显的接缝",
   "(for small sets of custom tags)": "(少量的自定义标签)",
   "for supported extensions)": " 寻找已支持的扩展)",
