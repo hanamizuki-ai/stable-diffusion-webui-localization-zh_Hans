@@ -2925,6 +2925,7 @@
   "Keep interpolated images on disk": "保留插值图像在硬盘",
   "Keep models in VRAM": "将模型保留在显存中",
   "Keep occlusion edges": "保持边缘封闭",
+  "keep original image before swapping": "交换前保存原始图像",
   "Keep original size": "保持原始尺寸",
   "Keep resolution": "保持分辨率不变",
   "Keep settings persistent upon relaunch of webui": "重启 webui 时保持持久性设置",
