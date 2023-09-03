@@ -2565,6 +2565,7 @@
   "Keep original size": "保持原始尺寸",
   "Keep resolution": "保持分辨率不变",
   "Keep settings persistent upon relaunch of webui": "重启 webui 时保持持久性设置",
+  "Keep tag, ..": "保留标签, ..",
   "Keep temp images": "保留临时图像",
   "Keep the normalization layers of CLIP frozen during training. Advanced usage, may increase model performance and editability.": "训练过程中冻结 CLIP 的归一化层。可提高模型性能和可编辑性的高级用法。",
   "Keep the Ratio": "保持图像比例",
