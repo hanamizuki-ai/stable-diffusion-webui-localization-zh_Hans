@@ -22,7 +22,7 @@
   "1. Get Model Info by Civitai Url": "从 Civitai 链接拉取模型信息",
   "1. Get your key at": "1. 访问后面的网址获得你的 Key ",
   "1. Go to img2img tab": "1. 前往 图生图 选项卡",
-  "-1 means that it is calculated automatically. If both are -1, the size will be the same as the source size.": "-1意味着自动计算。如果宽高都是-1，则将与源视频尺寸相同。",
+  "-1 means that it is calculated automatically. If both are -1, the size will be the same as the source size.": "-1 意味着自动计算。如果宽高都是 -1，则将与源视频尺寸相同。",
   "(1 = original size)": "(1 = 原始尺寸)",
   "1st": "单元 1",
   "1st and last digit must be 0 and values should be between 0 and 1. ex:'0, 0.01, 0'": "第一个和最后一个数字必须是 0，其他值应介于 0 和 1 之间。如：’0, 0.01, 0’",
