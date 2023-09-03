@@ -1740,6 +1740,7 @@
   "Enable Dev mode - adds extra reporting in console": "启用开发者模式 - 在控制台中打印额外回报信息",
   "Enable Devtools Log": "启用开发工具日志",
   "Enable dropdown check": "启用下拉框检测",
+  "Enable Dynamic Lora Weights": "启用 Dynamic Lora Weights",
   "Enable Dynamic Thresholding (CFG Scale Fix)": "启用动态阈值 (CFG Scale 修复)",
   "Enable emphasis": "启用强调符",
   "Enable extension": "启用插件",
