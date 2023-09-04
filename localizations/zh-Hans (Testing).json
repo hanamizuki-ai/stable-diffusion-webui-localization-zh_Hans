@@ -807,6 +807,7 @@
   "Can be empty, indicating no translation": "可以为空，表示无需翻译",
   "Can be empty,indicating no translation": "可以为空，表示无需翻译",
   "Cancel": "取消",
+  "Cancel Download": "取消下载",
   "Cancel generate forever": "停止无限生成",
   "Cancel training.": "取消训练",
   "canny": "canny (硬边缘检测)",
