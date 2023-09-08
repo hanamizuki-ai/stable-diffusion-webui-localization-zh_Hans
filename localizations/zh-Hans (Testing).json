@@ -1,6 +1,5 @@
 {
   "= '": " = ' ",
-  "🗃️": "📦",
   "(0 = default (~0.03); minimum noise strength for k-diffusion noise scheduler)": "(0 = 默认 (~0.03); k-diffusion 噪声调度器的最小噪声强度)",
   "(0 = default (~14.6); maximum noise strength for k-diffusion noise schedule)": "(0 = 默认 (~14.6); k-diffusion 噪声调度器的最大噪声强度)",
   "(0 = default (~14.6); maximum noise strength for k-diffusion noise scheduler)": "(0 = 默认 (~14.6); k-diffusion 噪声调度器的最大噪声强度)",
