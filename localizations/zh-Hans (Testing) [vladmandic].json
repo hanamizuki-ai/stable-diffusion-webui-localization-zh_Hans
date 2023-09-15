@@ -2125,7 +2125,7 @@
   "Flow consistency mask": "光流一致性蒙版",
   "Flow factor schedule": "光流系数调度计划",
   "Flow method": "光流算法",
-  "Focal point edges weight": "焦点线条权重",
+  "Focal point edges weight": "焦点边缘权重",
   "Focal point entropy weight": "焦点熵权重",
   "Focal point face weight": "焦点面部权重",
   "folder_from": "源文件夹",
