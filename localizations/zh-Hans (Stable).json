@@ -552,6 +552,7 @@
   "Autodetect": "自动检测",
   "Auto detect size from img2img": "从图生图自动检测图像尺寸",
   "Auto det_size : Will load model twice and test faces on each if needed (old behaviour). Takes more VRAM. Precedence over fixed det_size": "自动 det_size : 如有需要可启用，将加载模型两次以在每个模型上测试面部 (旧版行为)。会占用更多显存。优先于固定 det_size",
+  "Auto enable when loading the PNG Info of a generation that used FreeU": "在识别 PNG 图片信息时加载到使用过 FreeU 的图像后自动启用 FreeU",
   "Auto face size adjustment by model": "通过模型自动调整脸部大小",
   "Auto focal point crop": "自动面部焦点剪裁",
   "Auto load and save JSON database": "自动加载并保存 JSON 数据库",
