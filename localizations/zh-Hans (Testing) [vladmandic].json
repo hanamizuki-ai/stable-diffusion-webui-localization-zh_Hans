@@ -5815,7 +5815,7 @@
   "Style Name": "样式名称",
   "StylePile": "StylePile (风格加码)",
   "Styles": "预设样式",
-  "Styles allow you to add custom text to prompt. Use the {prompt} token in style text, and it will be replaced with user's prompt when applying style. Otherwise, style's text will be added to the end of the prompt.": "预设样式允许自行添加自定义文本到提示词中。\n在预设样式文本中使用 {提示词} 词元，在应用预设样式时，它将被用户的提示词所替代。\n不然的话，预设样式文本会被添加到提示词末尾。",
+  "Styles allow you to add custom text to prompt. Use the {prompt} token in style text, and it will be replaced with user's prompt when applying style. Otherwise, style's text will be added to the end of the prompt.": "预设样式允许将整段自定义文本添加到提示词中。\n在文本框中使用 {prompt} 来调用预设样式中同名预设，在应用预设样式时，它将被用户的提示词所替代。\n否则预设样式文本会被添加到提示词末尾。",
   "Style Selector": "样式选择器",
   "Styles: refresh": "预设样式: 刷新",
   "Style to apply; styles have components for both positive and negative prompts and apply to both": "要使用的模版风格； 模版风格包含正向和反向提示词，并应用于两者\n🎨 随机添加一个艺术家到提示词中\n ↙️  从提示词中读取生成参数，如果提示词为空，则读取上一次的生成参数到用户界面\n💾 将当前的提示词保存为模版风格(保存在styles.csv)\n📋 将所选模板风格，应用于当前提示词\n如果你在文本中添加{prompt}标记，并保存为模版风格\n那么将来你使用该模版风格时，你现有的提示词会替换模版风格中的{prompt}",

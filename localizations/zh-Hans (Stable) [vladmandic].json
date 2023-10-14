@@ -5084,7 +5084,7 @@
   "Style 2": "模版风格 2",
   "Style Name": "样式名称",
   "Styles": "预设样式",
-  "Styles allow you to add custom text to prompt. Use the {prompt} token in style text, and it will be replaced with user's prompt when applying style. Otherwise, style's text will be added to the end of the prompt.": "预设样式允许自行添加自定义文本到提示词中。\n在预设样式文本中使用 {提示词} 词元，在应用预设样式时，它将被用户的提示词所替代。\n不然的话，预设样式文本会被添加到提示词末尾。",
+  "Styles allow you to add custom text to prompt. Use the {prompt} token in style text, and it will be replaced with user's prompt when applying style. Otherwise, style's text will be added to the end of the prompt.": "预设样式允许将整段自定义文本添加到提示词中。\n在文本框中使用 {prompt} 来调用预设样式中同名预设，在应用预设样式时，它将被用户的提示词所替代。\n否则预设样式文本会被添加到提示词末尾。",
   "Style Selector": "样式选择器",
   "Styles: refresh": "预设样式: 刷新",
   "Sub directory depth": "子目录深度",
