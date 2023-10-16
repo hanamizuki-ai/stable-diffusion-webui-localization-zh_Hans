@@ -4346,7 +4346,7 @@
   "Paths for saving": "保存路径",
   "Path to classifier ckpt, can be empty": "分类器的路径，可留空",
   "path/to/classify": "分类/路径",
-  "Path to directory containing annotator model directories (requires restart, overrides corresponding command line flag)": "预处理器模型 (annotator model) 的文件路径 (需重启，以覆盖相应的命令行标志)",
+  "Path to directory containing annotator model directories (requires restart, overrides corresponding command line flag)": "预处理器模型 (annotator model) 的文件路径 (需重启，以覆盖相应的命令行参数)",
   "Path to directory where to write outputs": "进行输出的目录路径",
   "Path to directory with classification images": "分类图像的目录路径",
   "Path to directory with input images": "带有输入图像的目录路径",
