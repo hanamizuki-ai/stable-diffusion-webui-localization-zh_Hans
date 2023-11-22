@@ -1904,7 +1904,7 @@
   "Extra network card width": "扩展模型卡片宽度",
   "Extra Networks": "扩展模型",
   "Extra networks separator": "扩展模型分隔文本",
-  "Extra networks tab order": "扩展模型类型选项卡顺序",
+  "Extra networks tab order": "扩展模型选项卡顺序",
   "Extra noise multiplier for img2img and hires fix": "图生图和高分辨率修复的额外噪声倍率",
   "Extra paths to scan for LoRA models, comma-separated. Paths containing commas must be enclosed in double quotes. In the path, \" (one quote) must be replaced by \"\" (two quotes).": "扫描低秩微调模型 (LoRA) 的附加目录，以逗号分隔。包含逗号的路径必须用双引号括起来。 在路径中，\"（一个引号）必须替换为\"\"（两个引号）。",
   "Extra path to scan for ControlNet models (e.g. training output directory)": "检索 ControlNet 模型的附加目录（如训练输出目录）",
