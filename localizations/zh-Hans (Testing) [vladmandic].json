@@ -4617,6 +4617,8 @@
   "Postprocessing operation order": "后期处理操作顺序",
   "Postprocess (latent)": "后期处理 (潜空间)",
   "Precision": "精度",
+  "Precision for (attention:1.1) when editing the prompt with Ctrl+up/down": "通过 Ctrl+Up/Down 编辑形如 (attention:1.1) 词条的精度",
+  "Precision for <extra networks:0.9> when editing the prompt with Ctrl+up/down": "通过 Ctrl+Up/Down 编辑形如 <extra networks:0.9> 词条的精度",
   "Pre-defined aspect ratio buttons (1:1, 4:3, 16:9, 9:16, 21:9)": "纵横比按钮预设 (输入格式: 1:1, 4:3, 16:9, 9:16, 21:9)",
   "Pre-defined percentage buttons (75, 125, 150)": "百分比按钮预设 (输入格式: 75, 125, 150)",
   "Pre-defined percentage display format": "百分比预设显示格式",
