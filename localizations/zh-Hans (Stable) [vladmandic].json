@@ -1292,7 +1292,7 @@
   "csv file with columns for filenames and prompts": "列有文件名和提示词的 csv 文件",
   "Ctrl+up/down precision when editing (attention:1.1)": "使用 Ctrl +  ↑/↓ 设置 \"(tag:1.1)\" 时的精度",
   "Ctrl+up/down precision when editing <extra networks:0.9>": "使用 Ctrl +  ↑/↓ 设置 \"<extra networks:0.9>\" 时的精度",
-  "Ctrl+up/down whitespace delimiters": "受 Ctrl+↑/↓ 控制的空白分隔符",
+  "Ctrl+up/down whitespace delimiters": "通过 Ctrl+Up/Down 控制的空白分隔符",
   "Ctrl+up/down word delimiters": "可以使用 Ctrl +  ↑/↓ 设置权重的\"提示词分隔符类型\"",
   "Ctrl + wheel": "Ctrl + 滚轮",
   "cubism": "cubism (立体主义)",
