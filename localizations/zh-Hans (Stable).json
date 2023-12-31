@@ -5168,6 +5168,7 @@
   "Show images zoomed in by default in full page image viewer": "在网页全屏图像查看器中，默认放大显示图像",
   "Show intermediate steps": "显示中间步骤",
   "Show internal metadata": "显示内部元数据",
+  "Show Live preview in full page image viewer": "允许实时预览在网页全屏图像查看器打开时显示",
   "Show live previews of the created image": "显示当前生成图像的实时预览",
   "Show live tag translation below prompt": "在提示词下方显示实时标签翻译",
   "Show live tag translation below prompt (WIP, expect some bugs)": "在提示词下方显示实时标签翻译 (未完成，预计会有一些bug)",
