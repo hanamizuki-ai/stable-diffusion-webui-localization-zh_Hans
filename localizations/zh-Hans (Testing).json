@@ -791,6 +791,8 @@
   "Batch-Warp": "批量修复",
   "bauhaus": "bauhaus (包豪斯)",
   "Beam Search": "Beam Search (集束检索)",
+  "Be aware that this technique is essentially a training routine and will significantly lengthen your inference time, at least on the default settings. On a Geforce 3090, it appears to take around 1-2 minutes.": "请注意此技术实际上是一个训练程序，会显著延长生图时间，至少在默认设置下是这样的。在3090显卡上，可能需要大约1-2分钟。",
+  "Be careful when using xformers: sometimes your GPU will create different images in a row, even with very same settings! So you won't be able to correctly replicate an image of some previous step, which might mislead you when you start comparing things.": "使用 xformers 时要注意：有时即使使用完全相同的设置，你的 GPU 也会连续生成不同的图像！这会导致无法正确复刻之前某个步骤的图像，可能会误导你的比较。",
   "Before": "之前",
   "Before LORA/LyCO": "LoRA/LyCO 前",
   "Before Motion": "镜头运动前",
