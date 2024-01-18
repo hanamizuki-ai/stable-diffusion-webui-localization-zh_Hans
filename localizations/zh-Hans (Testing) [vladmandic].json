@@ -255,6 +255,7 @@
   "'add_soundtrack' and 'soundtrack_path' aren't being honoured in \"Interpolate an existing video\" mode. Original vid audio will be used instead with the same slow-mo rules above.": "‘添加音频’和‘音频路径’将不会在‘插入现有视频’模式中执行，原有视频的音频将会使用相同的慢动作规则设置",
   "Adds prompt-travel and shift-attention-like interpolations (see exts), but during/within the sampling steps. Always-on + works w/ existing prompt-editing syntax. Various interpolation modes. See their wiki for more info.": "在采样步骤中添加了 prompt-travel 和 shift-attention-like 插帧（请查看extensions），并且始终处于开启状态，与现有的 prompt-editing 语法兼容，支持多种插帧模型。查看 Wiki 以获取更多信息。",
   "Add Textual Inversion hashes to infotext": "将 Textual Inversion 哈希值添加到生成信息",
+  "Add the image's number to its picture in the grid.": "为网格中的图片添加编号",
   "Add the image's number to its picture in the grid (when 'Add number to filename' is on)": "为网格中的图片添加编号（需开启“添加编号到文件名”）",
   "Add to / replace in saved directories": "添加/替换 已保存的目录",
   "Add to Sequence X": "添加到 X 轴",
