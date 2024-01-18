@@ -1655,6 +1655,7 @@
   "Download models using Aria2": "使用 Aria2 下载模型",
   "Download NSFW (adult) preview images": "允许下载含成人内容的预览图",
   "Download path": "下载路径",
+  "Downloads": "下载",
   "Download system info": "下载系统信息",
   "Download the pose as .json file": "以 .json 格式保存姿态图",
   "Downscaling": "缩小",
