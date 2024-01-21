@@ -558,7 +558,7 @@
   "A negative prompt to use when generating preview images.": "用于生成预览图像的反向提示词。",
   "Angle": "角度",
   "angular": "angular (棱角)",
-  "An hour ago, I released Unprompted v2.0.0, which is my largest update since launch. It introduces a streamlined form of \"advanced expressions\" that, in my view, brings Unprompted up to the level of a real, honest-to-goodness templating language.": "一个小时前，我推出了Unprompted v2.0.0，这是自从发布以来最大的一次更新，引入了一种更为精简的“高级表达式”，在我看来，这让Unprompted达到了一个真正的、名副其实的模板语言的水平。",
+  "An hour ago, I released Unprompted v2.0.0, which is my largest update since launch. It introduces a streamlined form of \"advanced expressions\" that, in my view, brings Unprompted up to the level of a real, honest-to-goodness templating language.": "一个小时前，我推出了 Unprompted v2.0.0，这是自从发布以来最大的一次更新，引入了一种更为精简的“高级表达式”，在我看来，这让 Unprompted 达到了一个真正的、名副其实的模板语言的水平。",
   "animal": "animal (动物)",
   "animal - A random (fictional) animal. Has a chance to have human characteristics, such as clothing added.": "animal - 动物 - 一只随机的（虚构的）动物。可能会拥有人类的特征，如穿衣服。",
   "animal_openpose": "animal_openpose (OpenPose 姿态 - 动物)",
