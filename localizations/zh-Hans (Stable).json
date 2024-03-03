@@ -1411,7 +1411,7 @@
   "Default Input Batch Output Directory": "默认批量导入输出文件目录",
   "default LoRA multiplier": "默认 LoRA 强度倍率",
   "Default magic prompt model": "默认魔法提示词模型",
-  "Default multiplier for extra networks": "扩展模型强度的默认倍率",
+  "Default multiplier for extra networks": "扩展模型的默认强度倍率",
   "Default Options Button": "默认选项按钮",
   "Default order field for Extra Networks cards": "扩展模型卡片默认排序方式",
   "Default order for Extra Networks cards": "扩展模型卡片默认数据排序方式",
