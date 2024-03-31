@@ -6559,7 +6559,6 @@
   "Zoom in masked area": "缩放遮罩区域",
   "Z type": "Z 轴类型",
   "Z values": "Z 轴值",
-  "message": "RATE_LIMITED",
-  "retryAfter": 34040,
-  "global": true
+  "清空正面提示词": "清空正向提示词",
+  "清空负面提示词": "清空反向提示词"
 }
