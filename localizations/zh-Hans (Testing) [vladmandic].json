@@ -1103,6 +1103,7 @@
   "Calculate training parameters for a human subject. Enables prior preservation.": "计算训练人物主体所需参数。将启用先验存留 (prior preservation)",
   "Calculate training parameters for a non-human subject. Disables prior preservation.": "计算训练非人物主体所需参数。将禁用先验存留(prior preservation)",
   "Calculates aesthetic score for generated images using CLIP+MLP Aesthetic Score Predictor based on Chad Scorer": "为生成出来的图像计算其美学分数。基于 Chad Scorer 使用 CLIP+MLP 美学分数预测器",
+  "Callbacks": "回调优先级",
   "Camera Far": "镜头最远渲染距离",
   "Camera Focal Length": "镜头焦距",
   "Camera Near": "镜头最近渲染距离",
